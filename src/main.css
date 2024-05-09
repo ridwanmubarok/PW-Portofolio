@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .tablink.active {
+    @apply bg-gradient-to-r from-[#DE2775] to-[#EB4D52];
+  }
+  .tablink {
+    @apply cursor-pointer;
+  }
+  .tabcontent {
+    @apply hidden;
+  }
+}
