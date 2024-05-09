@@ -12,18 +12,17 @@ Website portfolio ini dibuat untuk menampilkan karya dan pengalaman profesional 
 Untuk menjalankan website ini di lingkungan lokal Anda, ikuti langkah-langkah berikut:
 
 1. **Clone Repository** 
+2. **Navigasi ke direktori proyek** 
+3. **Instal dependensi** 
+4. **Jalankan server pengembangan** 
+
+
 ```
 git clone https://github.com/ridwanmubarok/portfolio-website.git
-```
-2. **Navigasi ke direktori proyek** 
-```
 cd portfolio-website
-```
-3. **Instal dependensi** 
-```
 npm install
-4. **Jalankan server pengembangan** npm run dev
-
+npm run dev
+```
 
 Pastikan Anda memiliki Node.js dan npm terinstal di sistem Anda sebelum menjalankan perintah di atas.
 ## Usage
