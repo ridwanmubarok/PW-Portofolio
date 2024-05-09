@@ -42,3 +42,6 @@ Navigasikan melalui website untuk melihat berbagai bagian seperti 'About Me', 'E
 
 - **Ridwan Mubarok** - [GitHub](https://github.com/ridwanmubarok)
 - **Tailwind CSS** - Untuk framework CSS yang digunakan. [Website](https://tailwindcss.com/)
+- **Vite** - Untuk pengembangan website. [Website](https://vitejs.dev/)
+
+
